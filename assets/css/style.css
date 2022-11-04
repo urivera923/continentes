@@ -1,0 +1,36 @@
+body{
+    background-color: rgb(65, 105, 225);
+}
+
+.estiloMapa path {
+    fill: rgb(3, 155, 77);
+    stroke: rgb(19, 18, 18);
+    stroke-width: 4px;
+}
+
+.estiloMapa path:hover{
+    fill: rgb(253, 0, 0);
+}
+
+.g-estilo path:hover{
+    fill: rgb(36, 17, 206);
+}
+
+.g-estiloS path:hover{
+    fill: rgb(237, 67, 5);
+
+}
+
+.g-estiloE path:hover{
+    fill: rgb(237, 5, 109);
+}
+
+.g-estiloO path:hover{
+    fill: rgb(5, 237, 13);
+}
+
+.g-estiloA path:hover{
+    fill: rgb(107, 0, 161);
+
+}
+
